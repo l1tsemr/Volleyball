@@ -1,0 +1,29 @@
+body{
+  background:lightblue 
+}
+
+h1{
+  text-align:center;
+  background:red;
+  color:yellow  
+}
+
+
+p{
+  border:3px solid red;
+  background:peru
+}
+
+h2{
+  text-align:center;
+}
+
+td{
+  font-size:20px;
+  border:3px solid red;  
+}
+
+h5{
+  font-size:40px;
+}
+	
